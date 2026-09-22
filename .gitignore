@@ -1,0 +1,17 @@
+
+.env*
+!.env.example
+node_modules/
+**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*password*.txt
+local.properties
+__pycache__/
+tests/.backend-runtime.mjs
+android/app/src/main/assets/
